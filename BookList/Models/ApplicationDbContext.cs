@@ -7,5 +7,6 @@ namespace BookList.Models
 {
     public class ApplicationDbContext
     {
+
     }
 }
